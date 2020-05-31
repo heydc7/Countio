@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		36D411E824544848003D6C97 /* Countio WatchKit App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 36D411E724544848003D6C97 /* Countio WatchKit App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		36D411E824544848003D6C97 /* Countio.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 36D411E724544848003D6C97 /* Countio.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		36D411EE24544848003D6C97 /* Interface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36D411EC24544848003D6C97 /* Interface.storyboard */; };
 		36D411F02454484D003D6C97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 36D411EF2454484D003D6C97 /* Assets.xcassets */; };
 		36D411F72454484F003D6C97 /* Countio WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 36D411F62454484F003D6C97 /* Countio WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -55,7 +55,7 @@
 			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
 			dstSubfolderSpec = 16;
 			files = (
-				36D411E824544848003D6C97 /* Countio WatchKit App.app in Embed Watch Content */,
+				36D411E824544848003D6C97 /* Countio.app in Embed Watch Content */,
 			);
 			name = "Embed Watch Content";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -64,7 +64,7 @@
 
 /* Begin PBXFileReference section */
 		36D411E324544846003D6C97 /* Countio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Countio.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		36D411E724544848003D6C97 /* Countio WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Countio WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		36D411E724544848003D6C97 /* Countio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Countio.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36D411ED24544848003D6C97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Interface.storyboard; sourceTree = "<group>"; };
 		36D411EF2454484D003D6C97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		36D411F12454484D003D6C97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -104,7 +104,7 @@
 			isa = PBXGroup;
 			children = (
 				36D411E324544846003D6C97 /* Countio.app */,
-				36D411E724544848003D6C97 /* Countio WatchKit App.app */,
+				36D411E724544848003D6C97 /* Countio.app */,
 				36D411F62454484F003D6C97 /* Countio WatchKit Extension.appex */,
 			);
 			name = Products;
@@ -178,7 +178,7 @@
 			);
 			name = "Countio WatchKit App";
 			productName = "Countio WatchKit App";
-			productReference = 36D411E724544848003D6C97 /* Countio WatchKit App.app */;
+			productReference = 36D411E724544848003D6C97 /* Countio.app */;
 			productType = "com.apple.product-type.application.watchapp2";
 		};
 		36D411F52454484F003D6C97 /* Countio WatchKit Extension */ = {
@@ -473,11 +473,12 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 4LDA5ZPP86;
 				IBSC_MODULE = Countio_WatchKit_Extension;
 				INFOPLIST_FILE = "Countio WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dhanrajchavan.Countio.watchkitapp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Countio;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -492,11 +493,12 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 4LDA5ZPP86;
 				IBSC_MODULE = Countio_WatchKit_Extension;
 				INFOPLIST_FILE = "Countio WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = com.dhanrajchavan.Countio.watchkitapp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Countio;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
@@ -509,7 +511,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 4LDA5ZPP86;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.dhanrajchavan.Countio;
@@ -522,7 +524,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 4LDA5ZPP86;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.dhanrajchavan.Countio;
