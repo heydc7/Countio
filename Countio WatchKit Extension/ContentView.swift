@@ -101,6 +101,7 @@ struct ContentView: View {
             result -= number
         } else {
             result += number
+            
         }
         if result >= 0 {
             currentCount = result
