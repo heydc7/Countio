@@ -6,12 +6,12 @@
 
 [Watch Preview](https://youtu.be/BBnCv3G8VgY)
 
-### Features
+## Features
 * Count Anything Quickly
 * Increase ? Decrease
 * 6 Options To Count
 * Switch Quickly +/-
 * Remembers Every Last Count
 
-### App Screenshots
+## App Screenshots
 <img src="Screenshots/img1.png" width="250">|<img src="Screenshots/img2.png" width="250">|<img src="Screenshots/img3.png" width="250">
