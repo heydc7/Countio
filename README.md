@@ -7,14 +7,10 @@
 [![Preview](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/BBnCv3G8VgY)
 
 ### Features
-⋅⋅* Count Anything Quickly
-
-⋅⋅* Increase ? Decrease
-
-⋅⋅* 6 Options To Count
-
-⋅⋅* Switch Quickly +/-
-
-⋅⋅* Remembers Every Last Count
+* Count Anything Quickly
+* Increase ? Decrease
+* 6 Options To Count
+* Switch Quickly +/-
+* Remembers Every Last Count
 
 ### App Screenshots
