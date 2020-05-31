@@ -4,7 +4,7 @@
 
 [YouTube Tutorial](https://youtu.be/EWuTnjmEnHM)
 
-[![Preview](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/BBnCv3G8VgY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 ### Features
 * Count Anything Quickly
