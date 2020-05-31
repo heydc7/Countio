@@ -2,7 +2,7 @@
 
 <img src="Screenshots/countioLogo.png" width="400">
 
-[View On App Store](https://apps.apple.com/in/app/countio/id1510104828) | [YouTube Tutorial](https://youtu.be/EWuTnjmEnHM)|[Watch Preview](https://youtu.be/BBnCv3G8VgY)
+[View On App Store](https://apps.apple.com/in/app/countio/id1510104828) | [YouTube Tutorial](https://youtu.be/EWuTnjmEnHM) | [Watch Preview](https://youtu.be/BBnCv3G8VgY)
 
 ## Features
 * Count Anything Quickly
