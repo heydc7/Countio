@@ -6,7 +6,8 @@
 ![SwiftUI](https://img.shields.io/badge/use-swift_ui-blue.svg?style=for-the-badge)
 ![WatchOS](https://img.shields.io/badge/platform-watchos-purple.svg?style=for-the-badge)
 ![Xcode](https://img.shields.io/badge/Xcode-11-blue.svg?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0-blue.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0-purple.svg?style=for-the-badge)
+![Builds](https://img.shields.io/badge/Builds-2-yellow.svg?style=for-the-badge)
 [![license](https://img.shields.io/github/license/sgr-ksmt/FireTodo.svg?style=for-the-badge)](https://github.com/dhanrajdc7/Countio/blob/master/LICENSE.txt)
 
 <p align="center">
