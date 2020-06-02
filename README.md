@@ -43,7 +43,7 @@ Countio is simple WatchOS App made with Swiftly SwiftUI. You can count anything 
 Feel free to contribute to this SwiftUI WatchOS Project.
 
 ## Author
-App made with love ❤️ by [Dhanraj Chavan](https://github.com/dhanrajdc7) 
+App made by [Dhanraj Chavan](https://github.com/dhanrajdc7)
 
 ## License
 **Countio** is MIT Licensed. See [LICENSE](LICENCE.txt) for more info.
