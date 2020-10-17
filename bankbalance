@@ -1,0 +1,23 @@
+#include<iostream>
+using namespace std;
+
+class Bank;
+{ 
+  int bal;
+  public:
+     Bank(int n)
+        {
+           bal = n;
+        }
+    void show()
+        {
+          cout<<"Balance ="<<bal<<endl;
+        }
+ };
+int main()
+     {
+          Bank b1(1000),b2(2400),b3(5000);
+          b1.show();
+          b2.show();
+          b3.show();
+     }
