@@ -45,7 +45,7 @@ Feel free to contribute to this SwiftUI WatchOS Project.
 ## License
 **Countio** is MIT Licensed. See [LICENSE](LICENCE.txt) for more info.
 
-# Project Admin
+## Project Admin
 <div align="center">
 
 <a href="https://github.com/dhanrajdc7"><img src="https://avatars.githubusercontent.com/u/39642060?v=4" width=150px height=150px /></a> 
