@@ -42,8 +42,21 @@ Countio is simple WatchOS App made with Swiftly SwiftUI. You can count anything 
 ## Contributions
 Feel free to contribute to this SwiftUI WatchOS Project.
 
-## Author
-App made by [Dhanraj Chavan](https://github.com/dhanrajdc7)
-
 ## License
 **Countio** is MIT Licensed. See [LICENSE](LICENCE.txt) for more info.
+
+# Project Admin
+<div align="center">
+
+<a href="https://github.com/dhanrajdc7"><img src="https://avatars.githubusercontent.com/u/39642060?v=4" width=150px height=150px /></a> 
+  
+### **Dhanraj Chavan**
+
+[<img src="https://image.flaticon.com/icons/png/512/185/185983.png" width="35" padding="10">](https://www.youtube.com/codingpotter/)
+[<img src="https://image.flaticon.com/icons/svg/185/185964.svg" width="35" padding="10">](https://www.linkedin.com/in/dhanrajdc7/)
+[<img src="https://www.flaticon.com/svg/static/icons/svg/1312/1312142.svg" width="35" padding="10">](https://www.twitter.com/codingpotter)
+[<img src="https://image.flaticon.com/icons/svg/185/185985.svg" width="35" padding="10">](https://www.instagram.com/codingpotter/)
+
+<a href="https://www.buymeacoffee.com/codingpotter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=codingpotter&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+  
+</div>
